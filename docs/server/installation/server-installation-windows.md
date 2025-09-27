@@ -184,3 +184,4 @@ By default; the **login.json** used in the installer is set to **auto_create_acc
 ```
 
 ![Sample Server Select screen with local loginserver](https://user-images.githubusercontent.com/3319450/34912582-a025e892-f8aa-11e7-8676-2cdd98f6592c.png)
+
